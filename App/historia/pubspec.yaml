@@ -1,0 +1,35 @@
+name: industria_quimica
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.10.8
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/invasao_polonia.png
+    - assets/images/logo.png
+    - assets/images/medicos.png
+    - assets/images/pos_guerra.png
+    - assets/images/tratado_versalhes.png
+    - assets/images/stalingrado.png
+    - assets/images/resistencia.png
+    - assets/images/onu.png
+    - assets/images/dia_d.png
+    - assets/images/guerra1.jpg
+    - assets/images/guerra2.jpg
+    - assets/images/guerra3.jpg
+    - assets/images/guerra4.jpg
+    - assets/images/mapa_mental.jpg
+
