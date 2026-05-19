@@ -1,4 +1,7 @@
 # TimeWar – Segunda Guerra Mundial
+<p>
+  <img src="https://github.com/Aplicativos-Educacionais-2IDS-A-2026/Time-War/blob/main/Documenta%C3%A7%C3%A3o/logo.jpg?raw=true" width="300">
+</p>
 
 Aplicativo educacional desenvolvido em Flutter com foco no ensino interativo sobre a Segunda Guerra Mundial.
 
