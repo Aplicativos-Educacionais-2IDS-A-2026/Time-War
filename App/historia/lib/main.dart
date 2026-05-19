@@ -2,7 +2,7 @@
 // MAIN.DART
 // =============================
 import 'package:flutter/material.dart';
-import 'package:industria_quimica/%20pagina_quiz.dart';
+import 'package:industria_quimica/pagina_quiz.dart';
 
 // IMPORTAÇÃO DAS PÁGINAS
 import 'pagina_inicial.dart';
